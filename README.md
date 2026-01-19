@@ -19,3 +19,4 @@ The automaton represents basic phone states and the transitions between them, su
 ## Notes
 
 This is a simple educational project and does not aim to represent all real phone behaviors.
+
