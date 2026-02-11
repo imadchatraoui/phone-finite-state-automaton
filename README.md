@@ -8,6 +8,7 @@ The project was created as a **school assignment** during the (id rememeber the 
 
 ![Preview](Verfica_Immagine_Chatraoui.jpg)
 
+
 ## Description
 
 The automaton represents basic phone states and the transitions between them, such as turning the phone on and off and switching between simple operational states.
