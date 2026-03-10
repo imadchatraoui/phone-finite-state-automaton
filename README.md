@@ -5,6 +5,7 @@ The project was created as a **school assignment** during the (id rememeber the 
 
 ## Preview
 
+
 ![Preview](Verfica_Immagine_Chatraoui.jpg)
 
 
