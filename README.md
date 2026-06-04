@@ -1,7 +1,6 @@
 
 # simple-fsa-phone
 
-
 This repository contains a simple **Finite State Automaton (FSA)** that models the behavior of a phone.
 The project was created as a **school assignment** during the (id rememeber the year) year of high school** to practice the concept of finite state machines.
 
