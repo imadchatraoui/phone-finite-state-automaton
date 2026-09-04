@@ -1,5 +1,7 @@
 
 
+
+
 # simple-fsa-phone
 
 This repository contains a simple **Finite State Automaton (FSA)** that models the behavior of a phone.
